@@ -1,0 +1,11 @@
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.csprojAssemblyReference.cache
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.csproj.CoreCompileInputs.cache
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.AssemblyInfoInputs.cache
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.AssemblyInfo.cs
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\bin\Debug\netcoreapp2.2\HTTPParser.deps.json
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\bin\Debug\netcoreapp2.2\HTTPParser.runtimeconfig.json
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\bin\Debug\netcoreapp2.2\HTTPParser.runtimeconfig.dev.json
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\bin\Debug\netcoreapp2.2\HTTPParser.dll
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\bin\Debug\netcoreapp2.2\HTTPParser.pdb
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.dll
+C:\Users\sasharma\source\repos\HTTPParser\HTTPParser\obj\Debug\netcoreapp2.2\HTTPParser.pdb
